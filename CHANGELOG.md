@@ -1,0 +1,16 @@
+# 1.0.0 (2024-10-03)
+
+
+### Bug Fixes
+
+* **.github:** Correção de path do diretório .github ([3c99e2b](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/3c99e2bc46db9d93a497b0a4cf61c8b3ab9c9663))
+
+
+### Features
+
+* Adicionar arquivo .releaserc com configurações do semantic-release ([f6155bd](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/f6155bd410562a1eddcee9cabb1ceb4cb77c966c))
+* Adicionar arquivo de notebook com título ([6d09d5a](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/6d09d5a6db92ffea169448de80bacaf401998be4))
+* Adicionar arquivo pyproject.toml com configurações do projeto ([14f90a4](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/14f90a425899e1094101477e6e7521ab949e30fd))
+* Adicionar arquivos de configuração para testes e lançamentos ([94c8bc2](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/94c8bc21ee79c99f56d8b23a298ee623abb99581))
+* Adicionar dependências FastAPI, Uvicorn e HTTPX ([cfc5a97](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/cfc5a97cb254de6dc064f0176bb30a96f411ac7c))
+* Adicionar rota de saúde para verificar o estado do aplicativo ([31ec611](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/31ec61179d5f01c63d11ce16416e1684ac404acc))
