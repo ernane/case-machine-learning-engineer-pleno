@@ -19,6 +19,7 @@ taskipy = "^1.13.0"
 ruff = "^0.6.8"
 commitizen = "^3.29.1"
 pytest-asyncio = "^0.24.0"
+moto = {extras = ["all"], version = "^5.0.16"}
 
 [tool.commitizen]
 name = "cz_conventional_commits"
