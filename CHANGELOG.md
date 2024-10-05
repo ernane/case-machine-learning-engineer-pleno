@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.1.0...v1.2.0) (2024-10-05)
+
+
+### Features
+
+* Adicionar dependência moto para simulação de serviços AWS ([6a76add](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/6a76add0eb38e1ba084887da11976a4f64c87839))
+* Adicionar repositório de modelo em disco ([291c30a](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/291c30ac7e7f7de14042ecd178cc60fb79dfd790))
+
 # [1.1.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.0.0...v1.1.0) (2024-10-05)
 
 
