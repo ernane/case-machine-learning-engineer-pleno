@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.0.0...v1.1.0) (2024-10-05)
+
+
+### Features
+
+* Adicionar dependência pytest-asyncio ([02b5773](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/02b57732eea3b5335a303dbf214d6a4e54187ed1))
+* Adicionar repositório de modelo em disco ([fb88f19](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/fb88f19513e4020653172f22b783ebb048a72b93))
+* Adicionar teste de integração para repositório de modelo em disco ([0f05af8](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/0f05af851608646bbe0d5ec00507ad916195d680))
+
 # 1.0.0 (2024-10-03)
 
 
