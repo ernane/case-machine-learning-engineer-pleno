@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.2.0...v1.3.0) (2024-10-09)
+
+
+### Features
+
+* Adicionar caso de uso para carregar modelo ([647a0ef](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/647a0eff916067c67190daddf46bd5189a24619e))
+* Adicionar rota para carregar modelo ([0717d01](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/0717d0164553c6c00a66eaf9ac47b8edaccae6f8))
+
 # [1.2.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.1.0...v1.2.0) (2024-10-05)
 
 
