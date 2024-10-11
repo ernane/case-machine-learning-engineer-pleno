@@ -3,8 +3,10 @@ from fastapi import APIRouter, File, HTTPException, UploadFile, status
 from src.adapters.repositories.model_repository.disk_repository import (
     DiskModelRepository,
 )
+from src.models.model_definitions import DummyModel
 from src.use_cases.model_load_use_case import ModelLoadUseCase
 
+dummy_model = DummyModel()
 router = APIRouter()
 
 # Cria o repositório e caso de uso

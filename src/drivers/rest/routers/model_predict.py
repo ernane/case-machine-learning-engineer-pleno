@@ -22,7 +22,7 @@ prediction_repository = InMemoryPredictionRepository()
 
 
 class PredictionInput(BaseModel):
-    input_data: List[List[int]]
+    input_data: List[List[float]]
 
 
 @router.post('/model/predict/')
@@ -34,11 +34,17 @@ async def predict(input: PredictionInput):
 
         prediction_entry = {
             'input': input.input_data,
-            'predicted': predictions,
+            'predicted': predictions.tolist()
+            if hasattr(predictions, 'tolist')
+            else predictions,
         }
         await prediction_repository.add_prediction(prediction_entry)
 
-        return {'predictions': predictions}
+        return {
+            'predictions': predictions.tolist()
+            if hasattr(predictions, 'tolist')
+            else predictions
+        }
     except ValueError as e:
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST, detail=str(e)
