@@ -1,0 +1,17 @@
+version: "3.4"
+services:
+  ml-api:
+    image: "ml-api"
+    entrypoint: ./entrypoint.sh
+    build: .
+    ports:
+      - "${ML_API_PORT:-8000}:8000"
+    # build:
+    #   context: .
+    #   target: "development"
+    # volumes:
+    #   - ".:/src"
+    # ports:
+    #   - "${ML_API_PORT:-8000}:8000"
+    # environment:
+    #   - ML_API_PORT=${ML_API_PORT:-8000}
