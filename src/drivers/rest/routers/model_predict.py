@@ -15,11 +15,6 @@ repository = DiskModelRepository()
 predict_use_case = ModelPredictUseCase(model_repository=repository)
 
 
-class DummyModel:
-    def predict(self, X):
-        return [len(x) for x in X]
-
-
 class PredictionInput(BaseModel):
     input_data: List[List[int]]
 
