@@ -1,3 +1,14 @@
+# [1.6.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.5.0...v1.6.0) (2024-10-11)
+
+
+### Features
+
+* Adicionar arquivos Docker e docker-compose ([0bb344d](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/0bb344dbe8ae6742b1826276ae203009e36cc4b3))
+* Adicionar instruções de instalação e execução da aplicação em containers Docker ([7386efe](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/7386efe9b8e80752cc40749808bddaefe864ef4d))
+* Adicionar modelo de regressão logística ([5302962](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/53029620ba16fae28f4dcdd8b2b6fcd523698d19))
+* Adicionar modelo de regressão logística e arquivos Docker e docker-compose ([8dd8096](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/8dd809622c2e42e4f3de22b65aa9a2dd1147f01a))
+* Atualizar dependências do projeto ([385e958](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/385e958e85bad6a526bb02864085970d6273ab93))
+
 # [1.5.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.4.0...v1.5.0) (2024-10-11)
 
 
