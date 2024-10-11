@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.3.0...v1.4.0) (2024-10-11)
+
+
+### Features
+
+* Adicionar exceções mais específicas para erros ao carregar e salvar modelo ([1eb7d28](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/1eb7d28cecbc301bd57ba92d0b5d100738cfbd65))
+* Adicionar exceções para erros ao carregar e salvar modelo ([f985bb5](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/f985bb5e4800c6051fba68f5c796f08bcdd2b23d))
+* Adicionar rota para predição de modelo ([69bfc62](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/69bfc6221555500dc96514f932276fdb318f117e))
+
 # [1.3.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.2.0...v1.3.0) (2024-10-09)
 
 
