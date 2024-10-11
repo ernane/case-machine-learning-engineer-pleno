@@ -1,3 +1,17 @@
+# [1.5.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.4.0...v1.5.0) (2024-10-11)
+
+
+### Features
+
+* Adicionar configuração do Visual Studio Code ao .gitignore ([da1212d](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/da1212d616bfca5f1c538fff0dcbdfbef86f0838))
+* Adicionar dependência mongomock para testes de código dependente do MongoDB ([fa7a177](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/fa7a1770346a878c9afd29d248f75b3401c0e348))
+* Adicionar repositório em memória para predições ([b1774a7](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/b1774a742e5f75b7d8b55f4d9d022dc02a0e4dc1))
+* Adicionar repositório em memória para predições ([c4df292](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/c4df292116e6d745f85e442896e7d797ca00ada4))
+* Adicionar roteador para histórico de modelo ([9f0fe7b](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/9f0fe7b52bd1c93c13d4122d45abc30c4ce794e7))
+* Adicionar roteador para histórico de modelo ([903998e](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/903998e3cb38d80c5c573a02b24ac26f02245044))
+* Adicionar testes para repositório em memória de predições ([0d23e08](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/0d23e08006d2e0114bd83d3ce5ea604990caf57d))
+* Atualizar método predict para ser estático ([283c795](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/283c7958ae8fa76f872d26687221c5222afdcdef))
+
 # [1.4.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.3.0...v1.4.0) (2024-10-11)
 
 
