@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.6.0...v1.7.0) (2024-10-15)
+
+
+### Features
+
+* Notebook com respostas das perguntas via pyspark ([f6244fe](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/f6244fe891f80ac7fe197a742af9d6902faaa9d8))
+
 # [1.6.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.5.0...v1.6.0) (2024-10-11)
 
 
