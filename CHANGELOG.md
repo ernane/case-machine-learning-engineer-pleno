@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.7.0...v1.8.0) (2024-10-16)
+
+
+### Features
+
+* Adicionando desenho de arquitetura ([5d21371](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/5d21371aa9df1f245676f2244c225061788413a5))
+
 # [1.7.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.6.0...v1.7.0) (2024-10-15)
 
 
