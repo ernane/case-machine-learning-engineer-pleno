@@ -1,3 +1,11 @@
+# [1.9.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.8.0...v1.9.0) (2024-10-17)
+
+
+### Features
+
+* Adicionar dependência ipykernel ([eab63d0](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/eab63d0185b972519dd6c19941ef567e4df72d5a))
+* Adicionar funcionalidade de autenticação de usuários ([ea7a15d](https://github.com/ernane/case-machine-learning-engineer-pleno/commit/ea7a15de6d0ca47a7ce81f54af748aabdef384f0))
+
 # [1.8.0](https://github.com/ernane/case-machine-learning-engineer-pleno/compare/v1.7.0...v1.8.0) (2024-10-16)
 
 
